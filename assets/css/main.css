@@ -110,6 +110,13 @@ input, select, textarea {
 			transition: none !important;
 		}
 
+	.tribute {
+		text-align: center;
+		font-style: italic;
+		font-size: small;
+		color: #B8BABF;
+	}
+
 /* Type */
 
 	html {
