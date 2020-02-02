@@ -115,12 +115,18 @@ input, select, textarea {
 		font-style: italic;
 		font-size: small;
 		color: #B8BABF;
+		margin-top: 1%;
 	}
 
 	.projects {
 		text-align: center;
 		font-weight: bold;
 		margin-top: 2%;
+	}
+
+	.label {
+		text-align: center;
+		margin-top: 1%;
 	}
 
 /* Type */
