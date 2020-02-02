@@ -117,6 +117,12 @@ input, select, textarea {
 		color: #B8BABF;
 	}
 
+	.projects {
+		text-align: center;
+		font-weight: bold;
+		margin-top: 2%;
+	}
+
 /* Type */
 
 	html {
